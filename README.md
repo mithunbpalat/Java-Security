@@ -1,2 +1,2 @@
 # Java-Security
-Basic Security Java Application
+Basic Security in Java Spring Application
